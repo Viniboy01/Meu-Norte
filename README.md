@@ -35,6 +35,7 @@
 ✅ Exibir Dashboard de Evolução
 
 # 🧩 Estrutura do Projeto
+
 MEU-NORTE/
 ├── public/
 │ └── assets/ # Recursos estáticos (imagens, ícones)
