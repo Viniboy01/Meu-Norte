@@ -35,7 +35,22 @@
 ✅ Exibir Dashboard de Evolução
 
 # 🧩 Estrutura do Projeto
-
+MEU-NORTE/
+├── public/
+│ └── assets/ # Recursos estáticos (imagens, ícones)
+├── home/
+│ ├── index.html # Página inicial
+│ ├── script.js # Scripts da página inicial
+│ ├── styles.css # Estilos da página inicial
+│ └── gemini-config.js # Configurações adicionais
+├── login/
+│ ├── index.html # Página de login
+│ ├── script.js # Lógica de autenticação
+│ └── styles.css # Estilos da tela de login
+├── routes/ # Gerenciamento de rotas
+├── views/ # Views adicionais
+├── .env # Variáveis de ambiente (não versionado)
+└── README.md # Este arquivo
 
 
 
