@@ -44,4 +44,15 @@
 
 # 🔍​ Como Executar o Projeto
 
+# Opção 1: Diretamente no Navegador
 
+
+# Opção 2: Com Servidor Local
+
+
+
+# 📋 Funcionalidades Detalhadas
+
+
+
+# Autenticação
