@@ -13,3 +13,12 @@
 
 
 # Tela de Login e Tela de Cadastro
+
+
+
+# Portal Principal e Menu de Navegação
+
+
+
+# 🚀 Funcionalidades
+
