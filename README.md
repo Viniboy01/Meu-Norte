@@ -21,4 +21,27 @@
 
 
 # 🚀 Funcionalidades
+✅ Cadastrar e Gerenciar Perfil
+✅ Realizar Diagnóstico de Skills
+✅ Analisar Aderência Profissional
+✅ Páginas dinâmicas e interativas
+✅ Mapear Lacunas de Competências
+✅ Exibir Dashboard de Evolução
+
+# 🧩 Estrutura do Projeto
+
+
+
+
+
+# 🛠 Tecnologias Utilizadas
+
+
+
+# ⚙ Pré-requisitos
+
+# ⚙ Configuração
+
+# 🔍​ Como Executar o Projeto
+
 
