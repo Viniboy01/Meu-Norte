@@ -36,7 +36,7 @@
 
 # 🧩 Estrutura do Projeto
 
-Site_Pratica/
+Site_Meu_Norte/
 │
 ├── index.html              # Página inicial
 ├── login.html              # Página de login
@@ -58,7 +58,9 @@ Site_Pratica/
 
 # 🛠 Tecnologias Utilizadas
 
-
+HTML5, CSS3, JavaScript e Bootstrap
+Postgre
+VSCODROID e GitHub
 
 # ⚙ Pré-requisitos
 
